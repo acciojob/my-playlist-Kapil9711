@@ -20,6 +20,10 @@ video{
 .player_one{
 	background-color:rgb(255, 255, 255);
 }
+.player_two{
+	background-color:rgb(255, 255, 255);
+	
+}
 h1,h2,h3{
 	text-align:center;
 	font-family:sans-serif;
